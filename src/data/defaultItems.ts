@@ -1,0 +1,5 @@
+import { GotAllItem } from '../types';
+export const defaultCarryItems: GotAllItem[] = [
+{id:'phone',name:'Phone',emoji:'📱',type:'carry',selected:true},{id:'keys',name:'Keys',emoji:'🔑',type:'carry',selected:true},{id:'wallet',name:'Wallet',emoji:'👛',type:'carry',selected:true},{id:'watch',name:'Watch',emoji:'⌚',type:'carry',selected:true},{id:'headphones',name:'Headphones',emoji:'🎧',type:'carry',selected:true},{id:'glasses',name:'Glasses',emoji:'👓',type:'carry',selected:false},{id:'laptop',name:'Laptop',emoji:'💻',type:'carry',selected:false},{id:'badge',name:'Badge',emoji:'🪪',type:'carry',selected:false}];
+export const defaultCheckItems: GotAllItem[] = [
+{id:'stove',name:'Stove off',emoji:'🔥',type:'check',selected:true},{id:'door',name:'Door locked',emoji:'🔒',type:'check',selected:true},{id:'windows',name:'Windows',emoji:'🪟',type:'check',selected:false},{id:'lights',name:'Lights off',emoji:'💡',type:'check',selected:false},{id:'pet',name:'Pet sorted',emoji:'🐕',type:'check',selected:false},{id:'water',name:'Water off',emoji:'🚰',type:'check',selected:false}];
