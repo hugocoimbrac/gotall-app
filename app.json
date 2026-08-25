@@ -7,7 +7,6 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "ios": { "supportsTablet": false, "bundleIdentifier": "com.gotall.app" },
-    "android": { "package": "com.gotall.app" },
-    "plugins": ["expo-haptics"]
+    "android": { "package": "com.gotall.app" }
   }
 }
