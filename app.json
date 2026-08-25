@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "GotAll",
+    "slug": "gotall",
+    "scheme": "gotall",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.gotall.app" },
+    "android": { "package": "com.gotall.app" },
+    "plugins": ["expo-haptics"]
+  }
+}
