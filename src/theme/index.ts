@@ -1,2 +1,2 @@
-export const colors={background:'#F9FAF5',card:'#FFFFFF',text:'#17211A',muted:'#69736C',line:'#E4E8E2',green:'#68D475',greenDark:'#36AA50',greenSoft:'#EAF9E9',danger:'#D9534F',black:'#101512'};
-export const radius={sm:14,md:18,lg:24,xl:32};
+export const colors={background:'#FFFFFF',card:'#FFFFFF',text:'#0A0A0A',muted:'#747474',line:'#E7E7E7',green:'#0A0A0A',greenDark:'#0A0A0A',greenSoft:'#F3F3F3',danger:'#0A0A0A',black:'#0A0A0A'};
+export const radius={sm:12,md:16,lg:22,xl:28};
