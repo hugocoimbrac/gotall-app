@@ -12,8 +12,8 @@ android {
         applicationId = "com.gotall.app.wear"
         minSdk = 30
         targetSdk = 35
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.2.0"
     }
 
     buildFeatures { compose = true }
@@ -31,5 +31,6 @@ dependencies {
     implementation("androidx.wear.compose:compose-foundation:1.5.0")
     implementation("androidx.compose.ui:ui:1.7.8")
     implementation("androidx.compose.ui:ui-tooling-preview:1.7.8")
+    implementation("com.google.android.gms:play-services-wearable:19.0.0")
     debugImplementation("androidx.compose.ui:ui-tooling:1.7.8")
 }
