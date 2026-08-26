@@ -9,7 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.gotall.app.wear"
+        applicationId = "com.gotall.app"
         minSdk = 30
         targetSdk = 35
         versionCode = 2
