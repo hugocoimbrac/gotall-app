@@ -6,6 +6,7 @@
     "version": "0.1.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "plugins": ["./plugins/withGotAllAndroid"],
     "ios": { "supportsTablet": false, "bundleIdentifier": "com.gotall.app" },
     "android": { "package": "com.gotall.app" }
   }
